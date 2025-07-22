@@ -60,7 +60,7 @@ https://github.com/justdeleteme/justdelete.me
 
 **wargames-ctfs**
 
-overthewire.org
+https://www.overthewire.org
 
 https://app.hackthebox.com/login
 
@@ -68,15 +68,15 @@ https://tryhackme.com/
 
 https://portswigger.net/web-security
 
-root-me.org
+www.root-me.org
 
-hacking-lab.com
+www.hacking-lab.com
 
-ctflearn.com
+www.ctflearn.com
 
-hackthissite.org
+www.hackthissite.org
 
-pwn.collage
+www.pwn.collage
 
 https://github.com/d4rkr00t-ctf/List-of-hacking-wargames
 
@@ -86,7 +86,7 @@ https://faradaysec.com/reverse-engineering-and-game-hacking-resources-2/
 
 https://www.offsec.com/
 
-owasp.org
+www.owasp.org
 
 **bugbounty registries**
 
