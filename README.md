@@ -1,19 +1,29 @@
 //interesting websites\\
+
 http://hyperphysics.phy-astr.gsu.edu/hbase/index.html
+
 https://flashmuseum.org/
+
 https://theuselessweb.com/
+
 https://postsecret.com/
+
 https://www.reddit.com/r/slatestarcodex/comments/15cduil/lets_share_usefulinterestingcool_websites_with/
+
 https://nothing.community/d/688-interesting-websites-you-didnt-know-existed
+
 https://www.orioninfosolutions.com/blog/150-fun-cool-websites-interesting-websites-to-cure-boredom
+
 https://www.hostinger.com/tutorials/weird-websites
 
 https://github.com/atakanaltok/awesome-useful-websites
 
 //coding\\
+
 quickref.me
 
 //social engineering\\
+
 https://tineye.com/
 https://pimeyes.com/en
 https://facecheck.id/
