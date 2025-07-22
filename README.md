@@ -1,4 +1,4 @@
-//interesting websites\\
+**Interesting websites**
 
 http://hyperphysics.phy-astr.gsu.edu/hbase/index.html
 
@@ -18,11 +18,12 @@ https://www.hostinger.com/tutorials/weird-websites
 
 https://github.com/atakanaltok/awesome-useful-websites
 
-//coding\\
+
+**Coding**
 
 https://www.quickref.me
 
-//social engineering\\
+**social engineering**
 
 https://tineye.com/
 
@@ -38,7 +39,8 @@ https://profacefinder.com/
 
 https://lenso.ai/en
 
-//OSINT\\
+
+**OSINT**
 
 https://osintframework.com/
 
@@ -56,7 +58,7 @@ https://github.com/baywolf88/seeallthethings
 
 https://github.com/justdeleteme/justdelete.me
 
-//wargames-ctfs\\
+**wargames-ctfs**
 
 overthewire.org
 
@@ -86,7 +88,7 @@ https://www.offsec.com/
 
 owasp.org
 
-//bugbounty registries\\
+**bugbounty registries**
 
 https://www.hackerone.com
 
@@ -106,7 +108,7 @@ https://immunefi.com/
 
 https://github.com/disclose/bug-bounty-platforms
 
-//offsec-pentesting\\
+**offsec-pentesting**
 
 https://vx-underground.org/
 
@@ -150,7 +152,8 @@ https://github.com/redhuntlabs/Awesome-Asset-Discovery
 
 https://github.com/thehackingsage/bughunter
 
-//bug bounty\\
+
+**Bug bounty**
 
 https://www.amazon.com/dp/1593278616
 
@@ -191,7 +194,7 @@ https://github.com/alihussainzada/BugHunterMethodology
 https://github.com/hetmehtaa/bug-bounty-guide
 
 
-//Containment repos\\
+**Containment repos**
 
 https://github.com/Da2dalus/The-MALWARE-Repo
 
@@ -214,7 +217,7 @@ https://hybrid-analysis.com/
 https://labs.inquest.net/
 
 
-//web\\
+**Web**
 
 https://slcyber.io/dark-web-hub/
 
