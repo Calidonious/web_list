@@ -1,5 +1,5 @@
 //interesting websites\\
-http://hyperphysics.phy-astr.gsu.edu/hbase/index.html,
+http://hyperphysics.phy-astr.gsu.edu/hbase/index.html\n
 https://flashmuseum.org/
 https://theuselessweb.com/
 https://postsecret.com/
